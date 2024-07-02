@@ -24,14 +24,13 @@ To install this extension in developer mode:
 
 Once installed, the extension will automatically start working when you visit X. You should notice the absence of blue checkmarks on verified accounts.
 
-## Project Structure
+## Project Structure (Relevant Files)
 
 ```
 blue-check-remover/
 ├── manifest.json
 ├── content.js
-├── icon.svg
-└── README.md
+└── icon.svg
 ```
 
 - `manifest.json`: Defines the extension's properties and permissions.
