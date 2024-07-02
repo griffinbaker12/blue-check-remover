@@ -1,8 +1,8 @@
-# Twitter Blue Check Remover
+# Blue Check Remover
 
 ## About
 
-X Blue Check Remover is a Chrome extension that removes blue verification checkmarks from X accounts. This project was inspired by comments I saw on X from users who expressed enjoying their feed more with fewer blue checkmarks visible.
+The Blue Check Remover is a Chrome extension that removes blue verification checkmarks from X accounts. This project was inspired by comments I saw on X from users who expressed enjoying their feed more with fewer blue checkmarks visible.
 
 This is also the first Chrome extension I've ever written!
 
@@ -27,7 +27,7 @@ Once installed, the extension will automatically start working when you visit X.
 ## Project Structure
 
 ```
-twitter-blue-check-remover/
+blue-check-remover/
 ├── manifest.json
 ├── content.js
 ├── icon.svg
