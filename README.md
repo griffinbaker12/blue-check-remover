@@ -44,4 +44,4 @@ This extension is not affiliated with, endorsed by, or connected to X in any way
 
 ## License
 
-[MIT License](https://opensource.org/licenses/MIT)
+[MIT License](LICENSE)
