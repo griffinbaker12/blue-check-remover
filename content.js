@@ -8,6 +8,7 @@ function removeBlueChecks() {
         }
     });
 }
+
 removeBlueChecks();
 
 const observer = new MutationObserver(removeBlueChecks);
