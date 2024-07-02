@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Blue check remover",
+  "name": "Blue Check Remover",
   "description": "Removes blue check marks from X accounts.",
   "permissions": ["activeTab"],
   "version": "1.0",
