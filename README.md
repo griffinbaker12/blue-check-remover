@@ -1,14 +1,13 @@
-# Blue Check Remover
+# X Chrome Extension
 
-## About
+## Inspiration
 
-The Blue Check Remover is a Chrome extension that removes blue verification checkmarks from X accounts. This project was inspired by comments I saw on X from users who expressed enjoying their feed more with fewer blue checkmarks visible.
-
-This is also the first Chrome extension I've ever written!
+This project was inspired by comments I saw on X from users who expressed enjoying their feed more with fewer blue checkmarks visible.
 
 ## Features
 
 - Automatically hides blue verification checkmarks on X profiles and posts
+- Auto-reloads the feed so that you don't have to manually click "Load [more] tweets"
 - Operates in real-time, affecting both existing and dynamically loaded content
 
 ## Installation
